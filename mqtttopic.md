@@ -21,7 +21,7 @@
         - {"detect clogged filter": "1"}
         - {"imbalance": "22"}
         - {"Liquid flow": "2"}
-        - {"Air quality measurement": "4"}
+        - {"Air quality measurement": "1"}
         
 
  1. เซนเซอร์ภายนอกเครื่องซักผ้า
